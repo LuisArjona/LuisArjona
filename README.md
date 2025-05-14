@@ -1,4 +1,4 @@
-# Hi there 👋
+# El nano ae el nano ao
 
 <!--
 - 🔭 I’m currently working on ...
@@ -10,6 +10,5 @@
 
 ###
 
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuisArjona&theme=javascript&hide_border=true" alt="GitHub Streak" /></a> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuisArjona" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuisArjona&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" /></a> </p>
 
